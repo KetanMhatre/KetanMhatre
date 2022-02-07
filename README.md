@@ -6,6 +6,5 @@ Hi there<span class="wave">👋</span>,I'm Ketan
 
 ● Language: JAVA
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KetanMhatre &theme=radical)
 
