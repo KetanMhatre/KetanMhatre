@@ -7,9 +7,9 @@ Welcome to my profile!
 <h4 align="center">
  🎓I’m currently a junior pursuing my Bachelors in Computer Science from Mumbai University 
 
- 
- ## 🙋‍♂️ Connect with me
- 
+ ## <img src="https://media1.giphy.com/media/Vcs3yJfxyI7Laoen12/giphy.gif?cid=ecf05e47ifreuujs2u7ksggm4urp8tkdxdgaba92o5tnu07y&rid=giphy.gif&ct=s" width="40"> connect with me
+
+	
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="Left">
   <a href="https://www.linkedin.com/in/ketan-mhatre-09731b214/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
