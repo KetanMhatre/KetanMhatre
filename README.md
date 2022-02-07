@@ -4,7 +4,9 @@ Hey there
 Welcome to my profile!
 </h3>
 
- 🎓I’m currently a junior pursuing my Bachelors in Computer Science from Mumbai University
+<h4 align="center">
+ 🎓I’m currently a junior pursuing my Bachelors in Computer Science from Mumbai University 
+
  
  ## 🙋‍♂️ Connect with me
  
