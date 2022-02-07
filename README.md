@@ -11,9 +11,11 @@ Welcome to my profile!
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="Left">
   <a href="https://www.linkedin.com/in/ketan-mhatre-09731b214/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:ketanmhatre0506@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
 
 </p>
- 
 
 ## 🚀Technologies
 ### Programming languages ⚡
@@ -23,10 +25,18 @@ Welcome to my profile!
 ### Software and tools💻
 <p>
     <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <p>
  
+ 
+ 
+ 
+ 
 # 📊 Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KetanMhatre&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KetanMhatre&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KetanMhatre&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KetanMhatre&theme=highcontrast" />
+	
+</p>
 
 
