@@ -34,8 +34,8 @@ Welcome to my profile!
  
 # 📊 Github stats
  <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KetanMhatre&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KetanMhatre&theme=highcontrast" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KetanMhatre&show_icons=true&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KetanMhatre&theme=black-ice" />
 	
 </p>
 
