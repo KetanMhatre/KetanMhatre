@@ -10,7 +10,7 @@ Welcome to my profile!
  
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ketan-mhatre-09731b214/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ketan-mhatre-09731b214/">src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
  
