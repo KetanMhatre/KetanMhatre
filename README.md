@@ -7,7 +7,7 @@ Welcome to my profile!
 <h4 align="center">
  🎓I’m currently a junior pursuing my Bachelors in Computer Science from Mumbai University 
 
- ## <img src="https://media1.giphy.com/media/Vcs3yJfxyI7Laoen12/giphy.gif?cid=ecf05e47ifreuujs2u7ksggm4urp8tkdxdgaba92o5tnu07y&rid=giphy.gif&ct=s" width="40"> connect with me
+ ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="50"> Connect with me
 
 	
 <!-- Badges template - https://github.com/badges/shields -->
