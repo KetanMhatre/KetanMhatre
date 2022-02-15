@@ -5,7 +5,7 @@ Welcome to my profile!
 </h3>
 
 <h4 align="center">
- 🎓I’m currently a junior pursuing my Bachelors in Computer Science from Mumbai University 
+ 🎓I’m currently a junior pursuing my Bachelors in Computer Science from Mumbai University. 
 
  ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="50"> Connect with me
 
