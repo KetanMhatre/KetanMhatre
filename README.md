@@ -36,7 +36,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 - 🏃‍♂️ I am passionate about Full stack web devlopment
-- 🎓 Currently pursuing my Master's in Computer Science  <a href="https://www.patkarvardecollege.edu.in/">@PATKAR</a>
+- 🎓 Currently pursuing my Master's in Computer Science  
 - 🚧 I'm currently focused on improving my skills on DSA, Web Applications.
 # 🧰 My Skills
 
