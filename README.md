@@ -45,6 +45,7 @@
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/> 
  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="65" height="65"/> 
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="js" width="65" height="65"/> 
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" alt="js" width="65" height="65"/> 
 </p>
 
 
