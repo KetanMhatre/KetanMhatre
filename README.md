@@ -23,7 +23,7 @@
   <img align="left" alt="Ketan's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
   
 <a href="https://github.com/KetanMhatre">
-  <img align="left" alt="Ketan's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+  <img align="left" alt="Ketan's github" width="30px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" />
 </a>
 
 <a href="mailto:ketanmhatre0506@gmail.com.com">
