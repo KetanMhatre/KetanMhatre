@@ -36,8 +36,9 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 - 🏃‍♂️ I’m currently learning Full Stack Development.
-- 🎓 Pursuing my Master's in Computer Science  
-# 🧰 My Skills
+- 🎓 Pursuing my Master's in Computer Science
+  
+# Languages And Tools...
 
 <p align="center">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="65" height="65"/> 
@@ -46,6 +47,7 @@
  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="65" height="65"/> 
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="js" width="65" height="65"/> 
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" alt="js" width="65" height="65"/> 
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="js" width="65" height="65"/> 
 </p>
 
 
